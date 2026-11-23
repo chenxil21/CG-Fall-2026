@@ -85,7 +85,10 @@ Other course materials will be made available through Brightspace.
 - Assignments: 50%
 - Final: 50%
 
-There will be 4 assignments, equally weighted. Late assignments will be graded out of 70%. See [Rules](Rules.md) for the full academic integrity policy.
+~~There will be 4 assignments, equally weighted.~~
+There will be four assignments with different total possible scores. The points earned across all four assignments will be summed and scaled uniformly to contribute 50% of the final course grade.
+
+Late assignments will be graded out of 70%. See [Rules](Rules.md) for the full academic integrity policy.
 
 ## Slides
 
@@ -105,6 +108,7 @@ There will be 4 assignments, equally weighted. Late assignments will be graded o
 [12 Perspective Projection](slides/12%20-%20Perspective%20Projection.pdf)</br>
 [13 Texture Mapping](slides/13%20-%20Texture%20Mapping.pdf)</br>
 [14 Parametrization](slides/14%20-%20Parametrization.pdf)</br>
+[Extra Image Generation](slides/Extra%20-%20Image%20Generation.pdf)</br>
 
 ## Assignments
 
